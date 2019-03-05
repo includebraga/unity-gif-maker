@@ -1,2 +1,4 @@
 # unity-gif-maker
-It's a random text gif maker 
+A random text gif maker made with Unity.
+
+![include-braga](Assets/final-secret-santa.gif)
